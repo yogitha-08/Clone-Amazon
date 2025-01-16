@@ -124,14 +124,14 @@ span{
 .hero-msg{
     background-color:white;
     color:black;
-    height:40px;
-    width:80%;
-    display:flex;
-    align-items:center;
-    justify-content:space-evenly;
-    font-size:0.95rem;
-    position:absolute;
-    bottom:240px;
+    height:40px !important ;
+    width:80% !important ;
+    display:flex !important;
+    align-items:center !important;
+    justify-content:space-evenly !important;
+    font-size:0.95rem !important;
+    position:absolute !important;
+    bottom:240px !important;
 }
 .hero-msg a{
     color:#2162A1;
